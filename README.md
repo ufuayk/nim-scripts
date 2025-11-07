@@ -1,2 +1,17 @@
-# scripts
-The cornerstones of RUBIYC's technology.
+# Scripts
+
+The scripts that form the *core* of **RUBIYC**'s self-hosting-enhancing technologies.
+
+The scripts may not mean much on their own right now, but when combined, they form the foundation of an *as yet unannounced* self-hosting automation technology. ;)
+
+---
+
+| Lang | Script                         |
+| ---- | ------------------------------ |
+| Nim  | DOCKERCHECK                    |
+| Nim  | NETCHECK                       |
+| Nim  | USERCHECK                      |
+
+---
+
+All scripts are really short and clean.. 🧹
