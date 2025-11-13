@@ -9,6 +9,7 @@ The scripts may not mean much on their own right now, but when combined, they fo
 | Nim  | DOCKERCHECK                    |
 | Nim  | NETCHECK                       |
 | Nim  | USERCHECK                      |
+| Nim  | TIMESYNCCHECK                  |
 
 ---
 
